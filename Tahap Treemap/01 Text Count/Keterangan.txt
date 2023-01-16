@@ -1,0 +1,3 @@
+- Sebelum ketahap visualisasi Treemap, kami melakukan tahapan
+  menjumlahkan kata pada kolom hasil preprocessing 
+  (khususnya kolom "stemming")

@@ -1,0 +1,5 @@
+- Sebelum tahap labelin, data hasil dari preprocessing (kolom stemming),
+  ditranslate terlebih dahulu menggunakan google translate
+- Data yang ditranslate digunakan untuk tahap labelin dengan
+  library vader lexicon dengan python 
+- Untuk hasil kami satukan dengan data crawling dan preprocessing

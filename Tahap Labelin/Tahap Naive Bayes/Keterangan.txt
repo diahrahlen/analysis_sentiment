@@ -1,0 +1,4 @@
+Dilakukan 3 kali pengujian:
+- 20:80
+- 30:70
+- 40:60
